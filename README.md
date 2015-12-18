@@ -1,5 +1,7 @@
 # AutoHotKey support for Atom
 
+## This package is no longer being maintained
+
 This package adds basic syntax highlighting support for .ahk files in Atom.
 
 ![Screenshot of a New AutoHotKey Script](screenshot.png)
