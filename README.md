@@ -4,11 +4,6 @@ This package adds basic syntax highlighting support for .ahk files in Atom.
 
 ![Screenshot of a sample.ahk](sample.png)
 
-Screenshot taken of "New AutoHotKey Script.ahk" included in the project.  
-
-Props to Dayle Rees and his beautifully designed *Revalation* theme: [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes "daylerees/colour-schemes") 
-
-
 ## Features
 This package includes syntax highlighting for the following AutoHotkey constructs:
   * Built-in variables
