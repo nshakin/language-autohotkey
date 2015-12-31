@@ -6,8 +6,8 @@ fileTypes: [
 patterns: [
   {
     comment: "block comments"
-    begin: "/\\*"
-    end: "\\*/"
+    begin: "^/\\*"
+    end: "^\\*/"
     name: ".definition.block.comment"
   }
   {
