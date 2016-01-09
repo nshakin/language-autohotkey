@@ -1,3 +1,6 @@
+####This project is no longer maintained.  Please visit cescue's fork for the latest updates: https://github.com/cescue/language-autohotkey
+---
+
 # AutoHotKey support for Atom
 
 This package adds basic syntax highlighting support for .ahk files in Atom.
