@@ -1,8 +1,8 @@
 # See https://atom.io/docs/latest/creating-a-package#menus for more details
 'context-menu':
-  '.overlayer':
-      'Enable language-autohotkey': 'language-autohotkey:toggle'
-
+  'atom-workspace atom-text-editor:not(.mini)': [
+    {label: 'Enable language-autohotkey', command: 'language-autohotkey:toggle'}
+  ]
 'menu': [
   {
     'label': 'Packages'
